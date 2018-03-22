@@ -1,0 +1,19 @@
+c:\users\voltpc3\documents\visual studio 2015\Projects\Bieg\Bieg\bin\Debug\Bieg.exe.config
+c:\users\voltpc3\documents\visual studio 2015\Projects\Bieg\Bieg\bin\Debug\Bieg.exe
+c:\users\voltpc3\documents\visual studio 2015\Projects\Bieg\Bieg\bin\Debug\Bieg.pdb
+c:\users\voltpc3\documents\visual studio 2015\Projects\Bieg\Bieg\obj\Debug\Bieg.csprojResolveAssemblyReference.cache
+c:\users\voltpc3\documents\visual studio 2015\Projects\Bieg\Bieg\obj\Debug\Bieg.Form1.resources
+c:\users\voltpc3\documents\visual studio 2015\Projects\Bieg\Bieg\obj\Debug\Bieg.Properties.Resources.resources
+c:\users\voltpc3\documents\visual studio 2015\Projects\Bieg\Bieg\obj\Debug\Bieg.csproj.GenerateResource.Cache
+c:\users\voltpc3\documents\visual studio 2015\Projects\Bieg\Bieg\obj\Debug\Bieg.exe
+c:\users\voltpc3\documents\visual studio 2015\Projects\Bieg\Bieg\obj\Debug\Bieg.pdb
+D:\WAKACJE 2017 - praca\Projects\GRY\Bieg\Bieg\bin\Debug\Bieg.exe.config
+D:\WAKACJE 2017 - praca\Projects\GRY\Bieg\Bieg\bin\Debug\Bieg.exe
+D:\WAKACJE 2017 - praca\Projects\GRY\Bieg\Bieg\bin\Debug\Bieg.pdb
+D:\WAKACJE 2017 - praca\Projects\GRY\Bieg\Bieg\obj\Debug\Bieg.csprojResolveAssemblyReference.cache
+D:\WAKACJE 2017 - praca\Projects\GRY\Bieg\Bieg\obj\Debug\Bieg.Form1.resources
+D:\WAKACJE 2017 - praca\Projects\GRY\Bieg\Bieg\obj\Debug\Bieg.Properties.Resources.resources
+D:\WAKACJE 2017 - praca\Projects\GRY\Bieg\Bieg\obj\Debug\Bieg.csproj.GenerateResource.Cache
+D:\WAKACJE 2017 - praca\Projects\GRY\Bieg\Bieg\obj\Debug\Bieg.csproj.CoreCompileInputs.cache
+D:\WAKACJE 2017 - praca\Projects\GRY\Bieg\Bieg\obj\Debug\Bieg.exe
+D:\WAKACJE 2017 - praca\Projects\GRY\Bieg\Bieg\obj\Debug\Bieg.pdb
